@@ -63,7 +63,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "uf250-01.cnf"
+            argument = "uf100-01.cnf"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>
